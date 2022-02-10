@@ -1,4 +1,3 @@
-
 import { Routes, Route } from 'react-router-dom';
 import { About } from './components/About';
 import { FeaturedProducts } from './components/FeaturedProducts';
@@ -8,7 +7,7 @@ import { NewProducts } from './components/NewProducts';
 import { NoMatch } from './components/NoMatch';
 import { OrderSummary } from './components/OrderSummary';
 import { Products } from './components/Products';
-//test
+
 function App() {
   return (
     <>
